@@ -1,0 +1,4 @@
+#!/bin/sh
+echo 'This is the Future Man!!!'
+echo 'Waqt install kia jaa rha h. . .'
+read -p 'Aage badhaein? Ya bass mujhe hi dekhte rahoge?(Press Enter)'
